@@ -8,7 +8,7 @@ let reverseSentence = (arr1) => {
 
 reverseSentence(["a", "b", "c", " ", "d", "e"]);
 reverseSentence(["t", "h", "i", "s", " ", "i", "s", " ", "g", "o", "o", "d"]);
-b = ["i", "s", " ", "t", "h", "i", "s", " ", "g", "o", "o", "d"];
+let b = ["i", "s", " ", "t", "h", "i", "s", " ", "g", "o", "o", "d"];
 reverseSentence(b);
 
 // const A = ['this', 'is', 'good'];
