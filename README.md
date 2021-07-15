@@ -2,7 +2,7 @@
 
 <p align=center >This is a group problem solve test, 20th June 2021</p>
 
-=============================================================================================
+=====================================================================================
 
 [![GitHub Issues](https://img.shields.io/github/issues/freestyletear/Personal_Portfolio)](https://freestyletear.github.io/Personal_Portfolio/issues)
 
@@ -16,13 +16,18 @@ Write a function reverseSentence(A) that takes in an array of characters, A, and
 
 Example:
 
-A = ['t','h','i','s',' ','i','s',' ','g','o','o','d'] reverseSentence(A) A // ['g','o','o','d',' ','i','s',' ','t','h','i','s']
+A = ['t','h','i','s',' ','i','s',' ','g','o','o','d'] 
+
+reverseSentence(A) A ['g','o','o','d',' ','i','s',' ','t','h','i','s']
 
 ---
 
 ## Languages and Tools
+<br>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p><p align="left">  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://secrethub.io/img/vs-code.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
 ---
+
 ### Development
 Want to contribute? Great!
 
